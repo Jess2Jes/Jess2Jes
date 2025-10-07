@@ -18,7 +18,18 @@
 
 - 📫 How to reach me (by email) : **jessicagunawan650@gmail.com**
 
-- ⚡ Fun fact : **Life is as good as Chicken Katsu**
+<figure>
+  <pre role="img" aria-label="ASCII COW">
+      _________________________________
+  &lt; Life is as good as Chicken Katsu. &gt;
+      ---------------------------------
+          \   ^__^
+           \  (oo)\_______
+              (__)\       )\/\
+                  ||----w |
+                  ||     ||
+  </pre>
+  <figcaption id="cow-caption">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
