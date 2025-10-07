@@ -3,6 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jess2jes" alt="jess2jes" /></a> </p>
 
+
 - 🔭 I’m currently working on : [Python Project](https://github.com/Jess2Jes/Virtual-Pet-Game)
 
 - 🌱 I’m currently learning : **Python, C++, Javascript, Java and Bootstrap**
