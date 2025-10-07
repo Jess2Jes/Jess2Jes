@@ -21,7 +21,7 @@
 <figure>
   <pre role="img" aria-label="ASCII COW">
       _______________________________
-  &lt; Life is as good as Chicken Katsu. &gt;
+    &lt; Life is as good as Chicken Katsu. &gt;
       -------------------------------
           \   ^__^
            \  (oo)\_______
