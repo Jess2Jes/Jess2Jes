@@ -1,7 +1,9 @@
 <h1 align="center">Hello, World! I'm Jessica Gunawan ☺️</h1>
 <h3 align="center">A passionate student, currently interested in building AI, Game, and App project!</h3>
+<hr>
 <div align="center">
 <img src="https://github.com/Jess2Jes/Jess2Jes/blob/main/giphy.webp" alt="repeatcycle" width="250" height="250" />
+<hr>
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jess2jes" alt="jess2jes" /></a> </p>
 
