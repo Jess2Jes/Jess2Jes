@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! I'm Jessica Gunawan ☺️</h1>
 <h3 align="center">A passionate student, currently interested in building AI, Game, and App project!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jess2jes" alt="jess2jes" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jess2jes" alt="jess2jes" /></a> </p>
 
 - 🔭 I’m currently working on : [Python Project](https://github.com/Jess2Jes/Virtual-Pet-Game)
 
