@@ -44,5 +44,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jess2jes&show_icons=true&locale=en" alt="jess2jes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jess2jes&" alt="jess2jes" /></p>
-
