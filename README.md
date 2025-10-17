@@ -7,9 +7,9 @@ I'm **Jessica Gunawan**, a passionate developer and a creative thinker. Let's ex
 I'm a CS student with a knack for problem-solving and a love for technology. Currently, I have 3 public repositories showcasing some of my projects. I'm always eager to learn and grow in the tech community!
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jess2Jes&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Jess2Jes&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jess2Jes&theme=radical&hide_border=false)
 
 # Github Contributions:
 <picture>
