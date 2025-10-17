@@ -1,6 +1,6 @@
 <h1>⭐ Hello World! 👋</h1>
 
-<h2>I'm **Jessica Gunawan**, a passionate developer and a creative thinker. Let's explore the realms of coding together!</h2>
+I'm **Jessica Gunawan**, a passionate developer and a creative thinker. Let's explore the realms of coding together!
 
 <img src="giphy.webp" alt="Funny Gif" width="300" height="300"/>
 
