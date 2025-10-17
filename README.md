@@ -8,7 +8,12 @@ I'm a CS student with a knack for problem-solving and a love for technology. Cur
 
 ## Skills & Technologies
 
-git,github,html,css,py,c,cpp,mysql
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://tse4.mm.bing.net/th/id/OIP.C6uJCJR_JQSmm7do29vRRQHaHZ?pid=Api&P=0&h=180" alt="python" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://logowik.com/content/uploads/images/911_c_logo.jpg" alt="c++" width="40" height="40"/> </a>
+    </p>
 
 ## Top Projects
 
