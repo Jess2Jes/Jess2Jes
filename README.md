@@ -1,4 +1,4 @@
-## Hello World! 👋
+<h1>Hello World! 👋</h1>
 
 I'm **Jessica Gunawan**, a passionate developer and a creative thinker. Let's explore the realms of coding together!
 
@@ -20,6 +20,7 @@ git,github,html,css,py,c,cpp,mysql
 📊 Public Repositories: 3  
 👥 Followers: 1  
 👤 Following: 2  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jess2Jes&show_icons=true&theme=radical)
 
 ## Recent Activity
