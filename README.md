@@ -2,6 +2,8 @@
 
 I'm **Jessica Gunawan**, a passionate developer and a creative thinker. Let's explore the realms of coding together!
 
+<img src="giphy.webp" alt="Funny Gif" width="300" height="300"/>
+
 ## About Me
 
 I'm a CS student with a knack for problem-solving and a love for technology. Currently, I have 3 public repositories showcasing some of my projects. I'm always eager to learn and grow in the tech community!
