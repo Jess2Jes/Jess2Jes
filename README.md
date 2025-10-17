@@ -1,4 +1,4 @@
-<h1>Hello World! 👋</h1>
+<h1>⭐ Hello World! 👋</h1>
 
 I'm **Jessica Gunawan**, a passionate developer and a creative thinker. Let's explore the realms of coding together!
 
