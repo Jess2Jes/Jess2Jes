@@ -2,7 +2,7 @@
 
 I'm **Jessica Gunawan**, a passionate developer and a creative thinker. Let's explore the realms of coding together!
 
-<img align="center" src="giphy.webp" alt="Funny Gif" width="300" height="300"/>
+<img src="giphy.webp" alt="Funny Gif" width="300" height="300"/>
 
 ## About Me
 
