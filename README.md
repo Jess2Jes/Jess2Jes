@@ -9,7 +9,11 @@ I'm **Jessica Gunawan**, a passionate developer and a creative thinker. Let's ex
 I'm a CS student with a knack for problem-solving and a love for technology. Currently, I have 3 public repositories showcasing some of my projects. I'm always eager to learn and grow in the tech community!
 
 # 📊 GitHub Stats:
-[![Jess2Jes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jess2Jes)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jess2Jes&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jess2Jes&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jess2Jes&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jess2Jes&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jess2Jes&theme=tokyonight&utcOffset=8)
 
 # Github Contributions:
 <picture>
